@@ -1,1 +1,1 @@
-# A.PowerBi
+# Тут собраны pet-проекты по Power BI
